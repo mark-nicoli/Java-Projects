@@ -1,4 +1,4 @@
-//converts an inputted sentence to morse code
+//converts an inputted sentence to morse code to english
 
 import java.util.Scanner;
 import javax.sound.sampled.*;
