@@ -1,5 +1,4 @@
 //takes in a dictionary file and asks the user for input of letters available. the code then looks for the highest scoring words.
-
 import java.util.*;
 
 class Main
